@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="InvoiceServiceTest" tests="1" skipped="1" failures="0" errors="0" timestamp="2019-12-16T14:30:58" hostname="admin1-desktop" time="36.985">
+  <properties/>
+  <testcase name="givenUserIdAndRides_ShouldReturnsInvoiceSummary_ForPremium_MultiValue" classname="InvoiceServiceTest" time="36.985">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
