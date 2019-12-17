@@ -8,7 +8,7 @@ public class RideRepository {
     }
 
     public void addRides(String userId, Ride[] rides) {
-        this.userRide.put(userId,new ArrayList<>(Arrays.asList(rides)));
+        this.userRide.put(userId, new ArrayList<>(Arrays.asList(rides)));
     }
 
     public Ride[] getRide(String userId) {

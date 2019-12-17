@@ -6,7 +6,7 @@ public class InvoiceSummary {
     public InvoiceSummary(int noOfRides, double totalFare) {
         this.noOfRides = noOfRides;
         this.totalFare = totalFare;
-        this.average = this.totalFare/this.noOfRides;
+        this.average = this.totalFare / this.noOfRides;
     }
 
     @Override
